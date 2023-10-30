@@ -18,7 +18,7 @@ if (xp < 1000) {
 } else if (xp > 6000 && xp <= 7000){
     nivel = "Ouro"
 } else if (xp > 7000 && xp <= 8000){
-    nivel = "Bronze"
+    nivel = "Platina"
 } else if (xp > 8000 && xp <= 9000){
     nivel= "Ascendente"
 } else if (xp > 9000 && xp <= 10000){
